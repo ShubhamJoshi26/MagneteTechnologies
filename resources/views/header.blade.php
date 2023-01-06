@@ -60,6 +60,9 @@
                   <li class="nav-item">
                      <a href="#" class="nav-link" data-scroll-nav="6">Contact</a>
                   </li>
+                  <li class="nav-item">
+                     <a href="{{url('/login')}}" class="nav-link">User Login</a>
+                  </li>
                </ul>
             </div>
          </div>
